@@ -16,6 +16,7 @@ Unity エディタの Project（Assets）ウィンドウに `.zip` をドラッ�
 - FlZipdiProcessedCache.cs
 - FlZipdiSelectionWindow.cs
 - FlZipdiSettings.cs
+- FlZipdiZipDeletion.cs
 - FlZipUnitypackageDropImporter.Editor.asmdef
 
 ### 概要
